@@ -1,4 +1,4 @@
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">Hi 👋, I'm Aminul Islam</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -26,6 +26,15 @@
     <a href="https://www.circuit.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/circuit.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express.png" alt="express" width="40" height="40"/> </a>
 </p>
+
+
+
+#### You can also find me on- 
+
+[<img align="left" alt="DS-Popeye | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="DS-Popeye | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="DS-Popeye | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="DS-Popeye | Facebook" width="30px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][Facebook]
 
 
 

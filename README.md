@@ -20,4 +20,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul2611&&theme=tokyonight" alt="aminul2611" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=aminul2611">
+</a>
+<a href="https://github.com/aminul2611?tab=followers"><img src="https://img.shields.io/github/followers/aminul2611?label=Followers&style=social" alt="GitHub Badge"></a>

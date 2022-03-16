@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">Hi 👋, I'm Aminul Islam</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -29,14 +29,26 @@
 
 
 
+
 #### You can also find me on- 
 
-[<img align="left" alt="DS-Popeye | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="DS-Popeye | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="DS-Popeye | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="DS-Popeye | Facebook" width="30px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][Facebook]
+[<img align="left" alt="aminul2611 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="aminul2611 | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="aminul2611 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="aminul2611 | Facebook" width="30px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][Facebook]
+[<img align="left" alt="aminul2611 | ResearchGate" width="30px" src="https://www.researchgate.net/favicon.ico" />][ResearchGate]
 
 
+
+<br>
+
+<hr>
+
+[linkedin]: https://www.linkedin.com/in/md-aminul-islam-46a394180/
+[twitter]: https://twitter.com/
+[Instagram]: https://www.instagram.com/
+[Facebook]: https://www.facebook.com/aminulislamal846
+[ResearchGate]: https://www.researchgate.net/profile/Mdaminul-Islam-2
 
 
 

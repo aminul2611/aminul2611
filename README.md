@@ -68,9 +68,6 @@
 [<img align="left" alt="aminul2611 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 [<img align="left" alt="aminul2611 | Facebook" width="30px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][Facebook]
 [<img align="left" alt="aminul2611 | ResearchGate" width="30px" src="https://www.researchgate.net/favicon.ico" />][ResearchGate]
-
-
-
 <br>
 
 <hr>

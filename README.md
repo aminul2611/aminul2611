@@ -62,13 +62,13 @@
 
 
 #### You can also find me on- 
-
+<p align="left">
 [<img align="left" alt="aminul2611 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="aminul2611 | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="aminul2611 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 [<img align="left" alt="aminul2611 | Facebook" width="30px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][Facebook]
 [<img align="left" alt="aminul2611 | ResearchGate" width="30px" src="https://www.researchgate.net/favicon.ico" />][ResearchGate]
-
+</p>
 
 <hr>
 
@@ -93,7 +93,7 @@
 
 
 ## ❤ Views and Followers
-<a href="https://komarev.com/ghpvc/?username=aminul2611">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=aminul2611">
 </a>
 <a href="https://github.com/aminul2611?tab=followers"><img src="https://img.shields.io/github/followers/aminul2611?label=Followers&style=social" alt="GitHub Badge"></a>

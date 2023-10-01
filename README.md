@@ -74,7 +74,7 @@
 [twitter]: https://twitter.com/MDAminu58908935?t=GaijyxdKlrSISOUDd0LeoA&s=09
 [Instagram]: https://www.instagram.com/aminulai2611
 [Facebook]: https://www.facebook.com/aminulislamal846
-
+</hr>
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aminul2611&&theme=xcode)](https://github.com/aminul2611)
 

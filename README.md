@@ -71,11 +71,7 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/md-aminul-islam-46a394180/
-[twitter]: https://twitter.com/MDAminu58908935?t=GaijyxdKlrSISOUDd0LeoA&s=09
-[Instagram]: https://www.instagram.com/aminulai2611
-[Facebook]: https://www.facebook.com/aminulislamal846
-[ResearchGate]: https://www.researchgate.net/profile/Mdaminul-Islam-2
+
 
 </hr>
 

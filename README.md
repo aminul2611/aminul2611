@@ -78,6 +78,17 @@
 [Facebook]: https://www.facebook.com/aminulislamal846
 [ResearchGate]: https://www.researchgate.net/profile/Mdaminul-Islam-2
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aminul2611&&theme=xcode)](https://github.com/aminul2611)
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminul2611&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aminul2611" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminul2611&show_icons=true&locale=en&theme=tokyonight" alt="rechard" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul2611&&theme=tokyonight" alt="aminul2611" /></p>
+
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">

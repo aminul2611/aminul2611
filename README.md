@@ -75,7 +75,6 @@
 [Instagram]: https://www.instagram.com/aminulai2611
 [Facebook]: https://www.facebook.com/aminulislamal846
 [ResearchGate]: https://www.researchgate.net/profile/Mdaminul-Islam-2
-
 </hr>
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aminul2611&&theme=xcode)](https://github.com/aminul2611)

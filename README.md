@@ -62,18 +62,22 @@
 
 
 #### You can also find me on- 
-[<img align="left" alt="aminul2611 | ResearchGate" width="30px" src="https://www.researchgate.net/favicon.ico" />][ResearchGate]
+
 [<img align="left" alt="aminul2611 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="aminul2611 | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="aminul2611 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 [<img align="left" alt="aminul2611 | Facebook" width="30px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][Facebook]
+[<img align="left" alt="aminul2611 | ResearchGate" width="30px" src="https://www.researchgate.net/favicon.ico" />][ResearchGate]
+
 
 <hr>
-[ResearchGate]: https://www.researchgate.net/profile/Mdaminul-Islam-2
+
 [linkedin]: https://www.linkedin.com/in/md-aminul-islam-46a394180/
 [twitter]: https://twitter.com/MDAminu58908935?t=GaijyxdKlrSISOUDd0LeoA&s=09
 [Instagram]: https://www.instagram.com/aminulai2611
 [Facebook]: https://www.facebook.com/aminulislamal846
+[ResearchGate]: https://www.researchgate.net/profile/Mdaminul-Islam-2
+
 </hr>
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aminul2611&&theme=xcode)](https://github.com/aminul2611)

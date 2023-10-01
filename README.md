@@ -93,7 +93,7 @@
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://komarev.com/ghpvc/?username=aminul2611">
     <img src="https://komarev.com/ghpvc/?username=aminul2611">
 </a>
 <a href="https://github.com/aminul2611?tab=followers"><img src="https://img.shields.io/github/followers/aminul2611?label=Followers&style=social" alt="GitHub Badge"></a>
